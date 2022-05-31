@@ -1,0 +1,63 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Multi Step Synthesis of Sulfanilamide</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>976f53b6-36af-48c8-aa77-1b721d6225cc</md:uuid>
+</metadata>
+  <content>
+    <section id="id-376883521797">
+      <title>Mutli Step Synthesis</title>
+      <para id="id8546833">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id-967221784257">
+      <title>Synthesis of Sulfanilamide</title>
+      <section id="id-02264616408">
+        <title>Objective</title>
+        <para id="id8726993">In this lab we will synthesize sulfanilamide starting with aniline. Our synthetic steps will include a protection of an amine, followed by chlorosulfonylation of the protected aniline. This compound is then deprotected and converted to our target molecule, sulfanilamide, in one final step.</para>
+      </section>
+      <section id="id-762228058089">
+        <title>Grading</title>
+        <para id="id9679656">You will be assessed on:</para>
+        <list list-type="enumerated" id="id3297307">
+          <item>Write-up in your Lab Notebook</item>
+          <item>TA evaluation of lab procedure </item>
+          <item>Answers to Post Lab questions</item>
+        </list>
+      </section>
+      <section id="id-365465660424">
+        <title>Introduction</title>
+        <para id="id9741415">Sulfa drugs have been a very integral part of our medical history. Sulfa drugs were first used in the 1930’s, and are now the oldest antibiotics available and also among the best. Sulfa compounds work by inhibiting nucleic acid (DNA, RNA) synthesis. The way sulfa compounds work is by shutting down the system by which bacteria synthesize their folic acid. They do this by competing with para-aminobenzoic acid (PABA, necessary for folic acid synthesis). See Figure 1 to see if you can tell why sulfanilamide is a competitor for PABA.</para>
+        <figure id="id11081167">
+          <media id="idp6632416" alt=""><image src="../../media/graphics1-b999.png" mime-type="image/png" height="84" width="421"/></media>
+        </figure>
+      </section>
+      <section id="id-327873623117">
+        <title>Experimental</title>
+        <para id="id6581820">1. Place 5mL conical vial, Claisen head, ½ dram vial, and a drying tube packed with glass wool and calcium chloride into the oven for 30 minutes at 125
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>°</m:mi><m:mi>C</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{°C} {}</m:annotation></m:semantics></m:math>.
+2. Remove glassware from oven and allow it to cool.
+3. Measure out 230 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi fontstyle="italic">μL</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{μL} {}</m:annotation></m:semantics></m:math> of aniline and 500 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi fontstyle="italic">μL</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{μL} {}</m:annotation></m:semantics></m:math> of methylene chloride to the 5mL conical vial. 
+4. Immediately place the Claisen head equipped with a septum cap and the drying tube to the vial.
+5. Place the setup in an ice bath to cool the reagents before adding trifluoroacetic acid.
+6. Once the reagents are cool (5 minutes), add 500 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi fontstyle="italic">μL</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{μL} {}</m:annotation></m:semantics></m:math> of methylene chloride to a ½ dram vial. To this then add 500 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi fontstyle="italic">μL</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{μL} {}</m:annotation></m:semantics></m:math> of trifluoroacetic acid. Draw up the 1 mL total of solution into a syringe and add it through the septum dropwise to the aniline solution.Note: The reaction is exothermic, if the addition is too rapid, the methylene chloride will evaporate.
+7. After the addition is complete, let reaction stand at room temperature for 10 minutes.
+8. After reaction is at room temperature, remove the claisen head and remove methylene chloride by passing air over the top of the solution. This will evaporate the methylene chloride and residual trifluoroacetic acid, leaving the product as a white powder. </para>
+        <para id="id4098831">Next</para>
+        <para id="id3976058">1. Place an air condenser and a 9-in Pasteur pipet calibrated to deliver 0.9 mL, into the oven for 30 minutes at 125
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>°</m:mi><m:mi>C</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{°C} {}</m:annotation></m:semantics></m:math>.2. Remove glassware from oven and allow it to cool.3. Attach the vial containing 2,2,2-trifluoracetanilide to the dry air condenser.4. Measure out 0.9 mL of chlorosulfonic acid with the pipet and slowly add it to the vial by inserting the pipet down the air condenser.5. Place vial with condenser attached into a sand bath and heat for 10 min. at 65
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>°</m:mi><m:mi>C</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{°C} {}</m:annotation></m:semantics></m:math>.6. Collect the precipitate by vacuum filtration and wash with three 1-mL portions of cold water.7. Let the product air dry. Determine the melting point and overall yield.8. Weigh out 400 mg of the p-(2,2,2-trifluoroacetamido)benzenesulfonyl chloride into a 10-mL Erlenmeyer flask.9. In a test tube measure out 0.6 mL of concentrated ammonium hydroxide and 0.4 mL deionized water.10. Add the ammonium hydroxide solution to the Erlenmeyer containing the p-(2,2,2-trifluoroacetamido)benzenesulfonyl chloride. Use a glass stirring rod to break up any chunks that form.11. Add a boiling stone to the Erlenmeyer flask and place the reaction mixture into a sand bath. Heat the reaction to boiling and watch for all the solid to dissolve. Once total dissolution has occurred boil the mixture for an additional minute.12. Once reaction is complete remove the flask from the sand bath and allow to cool to room temperature. Once this is done place the flask into an ice bath for 15 min.13. Collect the yellow crystals that precipitate out of solution and isolate them via vacuum filtration. Wash with three 0.5 mL portions of water to remove any soluble impurities.14. Let the product air dry. Determine the melting point and overall yield.</para>
+      </section>
+      <section id="id-809137305203">
+        <title>Post-Lab Questions:</title>
+        <para id="id3949469">1. Who won the Nobel Prize for the discovery of sulfanilamide drugs?</para>
+        <para id="id3949472">2. To give you a better idea of the massive amount and diversity of protecting groups, assign structures to the following list of protecting group abbreviations:AcAdBnBOCCbzFmocMEMONBPptTBDMSTfTHPTIPSTMSTos</para>
+        <para id="id10178736">A good ref. Protective Groups in Organic Synthesis by Theodora W. Greene3. How do sulfa drugs work?</para>
+        <para id="id11198786">4. Draw a mechanistic scheme for all reactions done in this lab. (Show correct arrow pushing, and mechanistic detail.)</para>
+      </section>
+    </section>
+  </content>
+</document>

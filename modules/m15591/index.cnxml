@@ -1,0 +1,186 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Extraction of Carvone</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>e0957fc7-bd36-4f72-88a9-6891a5db65c5</md:uuid>
+</metadata>
+  <content>
+    <section id="id-900127024524">
+      <title>Extraction of Carvone</title>
+      <section id="id-33116678818">
+        <title>Objective</title>
+        <para id="id4602958">The purpose of this laboratory exercise is to take a natural product, in this case spearmint leaves and caraway seeds, and extract carvone from them.</para>
+      </section>
+      <section id="id-650063668213">
+        <title>Background</title>
+        <para id="id4530601">One of the most fascinating areas in organic chemistry is the study of stereochemistry. The most complicated part of most syntheses is to ensure that your product has the appropriate stereochemistry. An enormous amount of work is expended by chemists to ensure that they have better stereochemical control. Interestingly, living organisms have no problem producing stereochemically pure products. While it is difficult to make an enantiomerically pure compound in lab, plants and animals do it constantly with no error. Living organisms are also much more sensitive to stereochemical differences than many laboratory tests. Using most techniques, two enantiomers behave exactly the same. They have the same melting point, boiling point, and density, and will react identically with achiral chemicals. The only way to distinguish between different enantiomers in the laboratory is to measure their optical activity or treat them with other enantiomerically pure chemicals. Living organisms, on the other hand, are excellent at distinguishing between different enantiomers. The nose, for example, is one of the most sensitive tools for distinguishing some enantiomers. Two different enantiomers can smell completely different even though they behave the same as one another in many other tests.</para>
+        <para id="id4641530">In this lab, you will study two naturally produced enantiomers, (+)- and (-)-carvone. Both of these chemicals are edible in small quantities and are used as flavoring oils in industry. They have the exact same molecular structure except they are mirror images of one another. </para>
+        <para id="id4333797"><figure id="id4333801"><media id="idp7571808" alt=""><image src="../../media/graphics1-be3b.png" mime-type="image/png" height="178" width="191"/></media></figure>One of these enantiomers comes from caraway seeds and the other from spearmint leaves. These compounds are responsible for the distinctive smells of the plants, and you can easily determine which enantiomer is derived from which plant by its smell.</para>
+        <para id="id4364369">You will extract carvone from both caraway seeds and spearmint leaves by soaking the plant matter in the proper solvent, and then you will use thin layer chromatography (TLC) and IR to compare the compounds you’ve extracted. The extraction is based on the fact that carvone is very soluble in methylene chloride and methanol. Therefore, soaking seeds or leaves in either of these solvents will cause compounds to leach out of the plant matter and into the solvent. The reason we do not use the same solvent for both extractions is because methanol dissolves carvone more readily but also dissolves many other substances. There are many materials in caraway seeds that are soluble in methanol that using this solvent results in a highly contaminated sample. In spearmint leaves, fewer contaminants are extracted into the methanol, so it is an ideal solvent for carvone extraction. Methylene chloride does not dissolve carvone well, but it is an effective solvent for the extraction of carvone from caraway seeds, where it is abundant. </para>
+        <para id="id4364291"><figure id="id4364294"><media id="idm795808" alt=""><image src="../../media/graphics2-0e03.png" mime-type="image/png" height="293" width="324"/></media></figure>Some Important Definitions:</para>
+        <para id="id4312943">Chiral: An object that is not superimposable on its mirror image. </para>
+        <para id="id4532906">Isomers: Different molecules with the same molecular formula. </para>
+        <para id="id4529024">Constitutional isomers: Isomers that differ in the connectivities of atoms. </para>
+        <para id="id4640335">Stereoisomers: Isomers that are not constitutional isomers. These differ in the spatial arrangement of atoms. </para>
+        <para id="id4602395">Enantiomers: Stereoisomers that are non-superimposable mirror images.</para>
+        <para id="id4597357">Diastereomers: Stereoisomers that are not enantiomers. (Compounds with more than one stereocenter)</para>
+        <figure id="id4587796">
+          <media id="idm8879264" alt=""><image src="../../media/graphics3-4877.jpg" mime-type="image/jpeg" height="308" width="332"/></media>
+        </figure>
+        <para id="id4532860">Fig 2.1: Summary of isomerism</para>
+        <para id="id4532864">Meso Compounds: A compound that contains exactly one stereocenter is always chiral. However, compounds that contain more than one stereocenter are not necessarily chiral. This occurs when multiple stereocenters create an internal plane of symmetry. For example, consider 2,3-dichlorobutane. There are four possible stereochemical permutations since there are two stereocenters:</para>
+        <figure id="id4525583">
+          <media id="idp4062240" alt=""><image src="../../media/graphics4-2b32.png" mime-type="image/png" height="225" width="447"/></media>
+        </figure>
+        <para id="id4519494">Figure 4: Stereoisomers of 2,3-dichlorobutane</para>
+        <para id="id4328138">
+          <media id="idm979040" alt=""><image src="../../media/graphics5-76bb.png" mime-type="image/png" height="225" width="448"/></media>
+        </para>
+        <para id="id4540772">Figure 4.2: Four possible stereoisomers of 2-bromo-3-chlorobutane </para>
+      </section>
+    </section>
+    <section id="id-395276660471">
+      <title>PreLab: Extraction of Carvone</title>
+      <para id="id4513006">(Total 10 Points)</para>
+      <para id="id4513013">On my honor, in preparing this report, I know that I am free to use references and consult with others. However, I cannot copy from other students’ work or misrepresent my own data. </para>
+      <para id="id4348218"/>
+      <para id="id4550723"/>
+      <para id="id4550729">…………………………………………………………….. (signature)</para>
+      <para id="id4349383">Print Name: _________________________________________</para>
+      <para id="id4349388">1. Assign the configurations of the two stereocenters in the compound below. (2 points)</para>
+      <figure id="id4340078">
+        <media id="idm10457424" alt=""><image src="../../media/graphics6-f125.png" mime-type="image/png" height="190" width="420"/></media>
+      </figure>
+      <para id="id4597642">2. Assign R or S configuration to the following molecules. (3 points)</para>
+      <para id="id4501279"><media id="idp5146112" alt=""><image src="../../media/graphics7-cada.png" mime-type="image/png" height="55" width="107"/></media>
+	<media id="idp3671632" alt=""><image src="../../media/graphics8-ec16.png" mime-type="image/png" height="64" width="185"/></media>
+	<media id="idp4866976" alt=""><image src="../../media/graphics9-b943.png" mime-type="image/png" height="87" width="96"/></media>
+	<media id="idp9876592" alt=""><image src="../../media/graphics10-c866.png" mime-type="image/png" height="72" width="188"/></media>
+</para>
+      <para id="id4516719">3. Between the stress of university and your diet consisting entirely of pizza, potato chips, and chocolate bars, you have developed an ulcer. In order to numb the burning in your stomach, you take Pepcid. The active ingredient in Pepcid, famotidine, has the structure shown below. For the atoms indicated, identify the hybridization (5 points)</para>
+      <figure id="id4516727">
+        <media id="idp5881568" alt=""><image src="../../media/graphics11-8c01.png" mime-type="image/png" height="211" width="494"/></media>
+      </figure>
+      <section id="id-98084028618">
+        <title>Grading</title>
+        <list list-type="bulleted" id="id4494640"><item>Completion of Pre-Lab Questions.</item>
+	<item>Write-up in your Lab Notebook). </item>
+	<item>Completion of Report Questions.</item>
+	<item>TA Points.</item>
+</list>
+      </section>
+      <section id="id-343582363865">
+        <title>Materials Required </title>
+        <table id="id4641970" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Equipment</entry>
+                <entry>Chemicals</entry>
+              </row>
+              <row>
+                <entry>30 mL beaker</entry>
+                <entry>Caraway seeds</entry>
+              </row>
+              <row>
+                <entry>Hirsch funnel</entry>
+                <entry>Ether</entry>
+              </row>
+              <row>
+                <entry>Filter paper</entry>
+                <entry>Spearmint leaves</entry>
+              </row>
+              <row>
+                <entry>TLC plates</entry>
+                <entry>10% ethyl acetate in hexane</entry>
+              </row>
+              <row>
+                <entry>Blotter</entry>
+                <entry>p-anisaldehyde stain</entry>
+              </row>
+              <row>
+                <entry>Tubes</entry>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id4395250">Safety</para>
+        <para id="id4395254">Wear gloves all the time. Keep safety glasses on all the time to avoid unwanted accidents. Dispose organic substances in the proper container.</para>
+      </section>
+      <section id="id-387292712306">
+        <title>Experimental Procedure</title>
+        <para id="id4625406">1) Measure 2 g of crushed caraway seeds into a 30 mL beaker and add 10 mL of ether. Ether is chosen as a solvent because the carvone is soluble in ether. Cover with aluminum foil to prevent evaporation and allow the mixture to stand for 15-30 minutes.</para>
+        <para id="id4625414">2) Measure 2 g of spearmint leaves into a 50 mL beaker and add 10 mL of ether. Again, cover with aluminum foil and allow the mixture to stand for 15-30 minutes. The different containers have no effect on the extraction; they simply allow you to do two extractions simultaneously without duplicating your glassware.</para>
+        <para id="id4394849">3) Once the seeds have soaked for the appropriate time, use a Hirsch funnel to filter the caraway seed solution (Always clamp a filter flask.). This is done by placing a piece of filter paper in the funnel, assembling the Hirsch funnel as shown in the diagram below, and starting the suction such that a vacuum builds up in the filter flask. Pre-wet the filter paper with ether, then pipette the liquid from the extraction into the funnel and collect the liquid in the receiving flask. When you have filtered the caraway seed solution, transfer the filtrate to a cleaned 30 mL beaker and wash out the receiving flask with acetone. During filtration, if you see no solvents left at the receiving flask, you can add a minimum amount of ether (~5-10 mL) to dissolve the solid substance. Ether is volatile at room temperature.</para>
+        <figure id="id4612539">
+          <media id="idm10297168" alt=""><image src="../../media/graphics12-9b62.png" mime-type="image/png" height="247" width="506"/></media>
+        </figure>
+        <para id="id4332386">4) Repeat step 3 with the spearmint leaves extract using a clean pre-wetted piece of filter paper. Transfer this filtrate into a cleaned 50 mL flask.</para>
+        <para id="id4339824">5) Obtain a TLC plate that contains an indicator (metal or glass backed only) and draw a pencil line about 1 cm from the bottom on the side coated with silica. Draw a parallel line 1 cm from the top. On the lower line, draw four small lines evenly spaced along this line to indicate where you will place your samples.</para>
+        <figure id="id4340024">
+          <media id="idp1152672" alt=""><image src="../../media/graphics13-a00a.png" mime-type="image/png" height="187" width="97"/></media>
+        </figure>
+        <para id="id4352934">Label the lines "+" (for (+)-carvone), "-" (for (-)-carvone), "c" (for caraway extract), and "s" (for spearmint extract). See your TA, if you haven't already, about preparing a spotter in lieu of using a capillary tube.</para>
+        <para id="id4378077">6) Dip the tip of a spotter (or capillary tube) into your caraway extract and quickly dab this tip onto the line where it is labeled “c”. You may find it beneficial to do this under UV light to see how much sample you are placing and how large of a spot you are creating. You should see a very small amount of the caraway extract soak into the plate. For the two extracts, it is a good idea to spot multiple times (or to concentrate your sample) as the amount of carvone in the sample is small. Simply spot, let the solvent evaporate (leaving the sample on the plate), and then spot again at the same location. DO NOT SCRATCH THE TLC PLATE FOR MARKING.</para>
+        <para id="id4333354">7) Repeat this procedure for the spearmint extract.</para>
+        <para id="id4333359">8) Now do the same thing with the diluted (+) and (-) carvone standards. Since they are more highly concentrated than your extracts, make sure that you just barely touch the plate with the spotter/capillary tube. Also, you may want to dilute down the sample with more solvent to avoid large, blotchy spots.</para>
+        <para id="id4323420">9) When you have spotted all four of your samples, obtain about 5 mL of 10% ethyl acetate in hexanes in your 250 mL beaker. Place the beaker on your bench top.</para>
+        <para id="id4339402">10) Make sure that the solvent is initially below the line you used to spot the plate. Place your TLC plate gently into the beaker. You will see capillary action begin immediately as the solvent rises up the plate.</para>
+        <para id="id4566094">11) Cover the beaker to prevent evaporation (a watch glass or aluminum foil is sufficient). After a few minutes, the solvent will reach the upper line. Remove the plate and allow the solvent to evaporate.</para>
+        <para id="id4640788">12) Let the plate dry and then place it under UV light. The spot of carvone should be visible under UV light. Mark the spot by holding a UV light to it and circling all the spots you see in pencil. You should see a carvone spot in all four samples, though it may be larger in some than in others. Note any differences you see. Be sure to record a diagram of your TLC plate in your notebook to the correct scale.</para>
+        <para id="id4639046">13) You can also stain the plates with p-anisaldehyde stain. This stain turns carvone a reddish brown color while most other compounds turn blue. Therefore, it should be easy for you to identify the carvone spot. Using forceps, dip your plate into the anisaldehyde solution. Wipe off the glass back of the TLC plate with a paper towel, and then use a heat gun to heat the plate. You will see a pinkish color develop over the whole TLC plate and blue or brown spots where the material ran. Be sure not to overheat the plate or it may crack. Once done, check your TLC plate with your TA.</para>
+        <para id="id4639050">Again, draw a diagram of the stained plates in your notebook and determine the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>R</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>f</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{R rSub { size 8{f} } } {}</m:annotation></m:semantics></m:math> values. Can you find the red-brown carvone spot in all four samples? Can you tell by the spots which enantiomer is contained in spearmint and which is in caraway seeds?</para>
+        <para id="id4335914">14) Go see the IR demonstration and receive a copy of the IR for both pure carvone samples. Do the two enantiomers have distinctly different peaks? Could you tell the difference between enantiomers based on their IR spectra? </para>
+        <para id="id4494940">15) Smell the pure samples of + and - carvone and then smell some unused caraway and spearmint leaves. Can you tell by smell which of the enantiomers is from spearmint and which is from caraway?</para>
+      </section>
+    </section>
+    <section id="id-377144852598">
+      <title>Extraction of Carvone(Total 30 Points)</title>
+      <para id="id4495282">On my honor, in preparing this report, I know that I am free to use references and consult with others. However, I cannot copy from other students’ work or misrepresent my own data. </para>
+      <para id="id4402497"/>
+      <para id="id4638679"/>
+      <para id="id4638685">…………………………………………………………….. (signature)</para>
+      <para id="id4550128">Print Name: _________________________________________</para>
+      <para id="id4550133">1. Which methods that you used in this lab (IR, TLC, and smell) proved to be effective in distinguishing enantiomers? (2 points)</para>
+      <para id="id4505302">2. Separating enantiomers from a mixture is difficult but possible. Since these compounds have the same melting point, boiling point, and density, as well as other properties, there are few methods that allow a chemist to separate enantiomers. Think of or find a method that will allow a chemist to separate enantiomers. (3 points)</para>
+      <para id="id4561376">3. What functional groups do you observe in the IR spectrum? (2 points)</para>
+      <para id="id4596378">4. Circle and name the functional groups in the following molecules. (1 points each for a total of 10 points).</para>
+      <figure id="id4312149">
+        <media id="idp3741632" alt=""><image src="../../media/graphics14-72e6.png" mime-type="image/png" height="223" width="599"/></media>
+      </figure>
+      <para id="id4629206">5. Answer the following true or false questions by placing a legible T (for true) or F (for false) in the line provided at left and explain. (2X3= 6 points)</para>
+      <para id="id4324141">a. ______ The 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>R</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>f</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{R rSub { size 8{f} } } {}</m:annotation></m:semantics></m:math> value of the solvent front is always 1.</para>
+      <para id="id4394904">b. ______ If you are working-up a given reaction and have 100 ml of ether and 100 ml of water in your 500 mL separating funnel, water will be the top layer.</para>
+      <para id="id4513603">c. ______ The silica gel TLC for compound 3 (shown below) was run in 20% diethyl ether/hexanes. The 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>R</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>f</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{R rSub { size 8{f} } } {}</m:annotation></m:semantics></m:math> value will increase if the solvent system is changed to 60% diethyl ether/hexanes.</para>
+      <figure id="id4348385">
+        <media id="idp1534016" alt=""><image src="../../media/graphics15-4a21.png" mime-type="image/png" height="154" width="260"/></media>
+      </figure>
+      <para id="id4337050">6. Questions a-d refer to the following TLC diagram: (4 points)</para>
+      <figure id="id4362220">
+        <media id="idp419600" alt=""><image src="../../media/graphics16-bc4a.png" mime-type="image/png" height="181" width="182"/></media>
+      </figure>
+      <para id="id4395819">a. In the above TLC, the most non-polar spot is _______.</para>
+      <para id="id4395824">b. The base line is _______.</para>
+      <para id="id4333152">c. The solvent front is _______.</para>
+      <para id="id4333156">d. The 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>R</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>f</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{R rSub { size 8{f} } } {}</m:annotation></m:semantics></m:math> value of spot B is _______.</para>
+      <para id="id4561229">7. The following TLC (run in 40% 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>Et</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow><m:mi>O</m:mi><m:mo stretchy="false">/</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>hexanes</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "Et" rSub { size 8{2} } O/ ital "hexanes"} {}</m:annotation></m:semantics></m:math>) is of an organic reaction.</para>
+      <para id="id4602934">The starting material is on the right, the mixed spot is in the middle, and reaction is on the left. (3 points)</para>
+      <figure id="id4312457">
+        <media id="idm8368432" alt=""><image src="../../media/graphics17-fd6c.png" mime-type="image/png" height="202" width="155"/></media>
+      </figure>
+      <para id="id4549783">(A) What is the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>R</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>f</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{R rSub { size 8{f} } } {}</m:annotation></m:semantics></m:math> of the starting material?</para>
+      <para id="id4628691">a. 0.30b. 0.60c. 1.75d. 3.5e. none of these</para>
+      <para id="id4504164">(B) What is the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>R</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>f</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{R rSub { size 8{f} } } {}</m:annotation></m:semantics></m:math> of the product?</para>
+      <para id="id4505067">a. 0.30b. 0.60c. 1.75d. 3.5e. none of these</para>
+      <para id="id4362999">(C) Is the reaction complete? a. yesb. no</para>
+    </section>
+  </content>
+</document>

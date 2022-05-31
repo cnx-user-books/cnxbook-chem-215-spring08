@@ -1,0 +1,225 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>E2 Elimination</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>c5718902-ea93-4384-9581-f57ac5a1667c</md:uuid>
+</metadata>
+  <content>
+    <section id="id-0599605492794">
+      <title>The E2 Elimination Reaction</title>
+      <section id="id-453405187591">
+        <title>Objective </title>
+        <para id="id4677685">This experiment illustrates the base-induced dehydrohalogenation of alkyl halides with strong base for the preparation of alkenes. The stereo and regiochemical effect of the size of the base is investigated, and the product mixture is analyzed by gas chromatography.</para>
+      </section>
+      <section id="id-626657733736">
+        <title>Background Information</title>
+        <para id="id10955777">Base-induced elimination (dehydrohalogenation) of alkyl halides is a general reaction for preparing alkenes. This process is often referred to as an E2 elimination, since a hydrogen atom is always removed in addition to a halide (leaving group): E2 indicates a bimolecular elimination reaction, where rate = k [B][R-LG].</para>
+        <para id="id9884771">This pathway is a concerted process with the following characteristics: </para>
+        <para id="id11471419"><figure id="id10039294"><media id="idp1493456" alt=""><image src="../../media/graphics1-645e.png" mime-type="image/png" height="58" width="431"/></media></figure>Simultaneous removal of the proton, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSup { size 8{+{}} } } {}</m:annotation></m:semantics></m:math>, by the base, loss of the leaving group, LG, and formation of the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>π</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{π} {}</m:annotation></m:semantics></m:math>-bond</para>
+        <para id="id10885495">Let's look at how the various components of the reaction influence the reaction pathway:</para>
+        <section id="id-225800315078">
+          <title>Effects of R-</title>
+          <para id="id10884849">In an E2 reaction, the reaction transforms two 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>sp</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "sp" rSup { size 8{3} } } {}</m:annotation></m:semantics></m:math> C atoms into two 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>sp</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "sp" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math> C atoms. This moves the substituents further apart, decreasing any steric interactions. So, more highly substituted systems undergo E2 eliminations more rapidly. This is the same reactivity trend as seen in E1 reactions. </para>
+          <para id="id10499598">-LG The C-LG bond is broken during the rate-determining step, so the rate does depend on the nature of the leaving group. However, if a leaving group is too good, then an E1 reaction may result. </para>
+          <para id="id4939506">B Since the base is involved in the rate-determining step, the nature of the base is very important in an E2 reaction. More reactive bases will favor an E2 reaction. </para>
+        </section>
+        <section id="id-912049191345">
+          <title>The E2 pathway is most common with: </title>
+          <para id="id10420092">a) high concentration of a strong base b) poor leaving groups c) R-LG that do not lead to stable carbocations  (where the E1 mechanism will occur)</para>
+          <para id="id10807611">A high concentration of a strong base in a relatively nonpolar solvent is used to carry out the dehydrohalogenation reaction. Combinations include sodium methoxide in methanol, sodium ethoxide in ethanol, potassium isopropoxide in isopropanol, and potassium tert-butoxide in tert-butanol or dimethyl sulfoxide (DMSO).</para>
+          <figure id="id10070271">
+            <media id="idp3351840" alt=""><image src="../../media/graphics2-6665.png" mime-type="image/png" height="247" width="334"/></media>
+          </figure>
+          <para id="id10419566">Elimination reactions nearly always yield an isomeric mixture of alkenes. Under the reaction conditions, the elimination is regioselective and follows the Zaitsev rule when more than one route is available for the elimination of HX from an unsymmetrical alkyl halide. Consequently, the reaction proceeds in the direction that yields the most highly substituted alkene. In cases where cis or trans alkenes can be formed, the reaction exhibits stereoselectivity, where the more stable trans isomer is the major product. For example,</para>
+          <figure id="id10944595">
+            <media id="idp970672" alt=""><image src="../../media/graphics3-a66e.png" mime-type="image/png" height="331" width="463"/></media>
+          </figure>
+        </section>
+        <section id="id-877460122563">
+          <title>Mechanism of the E2 reaction:</title>
+          <para id="id4296049">Experimental evidence indicates that the five atoms involved in the E2 elimination reaction must lie in the same plane. The anti-periplanar conformation is preferred. This conformation is necessary so that orbital overlap can occur in order for the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>π</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{π} {}</m:annotation></m:semantics></m:math> bond to be generated in the alkene. The 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>sp</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "sp" rSup { size 8{3} } } {}</m:annotation></m:semantics></m:math>-hybridized atomic orbitals on carbon that comprise the C-H and C-X 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>σ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{σ} {}</m:annotation></m:semantics></m:math> bonds broken in the reaction develop into the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>ρ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ρ} {}</m:annotation></m:semantics></m:math> orbitals comprising the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>π</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{π} {}</m:annotation></m:semantics></m:math> bond of the alkene formed:</para>
+          <figure id="id10479929">
+            <media id="idp515456" alt=""><image src="../../media/graphics4-25f0.png" mime-type="image/png" height="179" width="350"/></media>
+          </figure>
+          <para id="id6500446">There is a smooth transition between the reactants and products. Analogous to the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>S</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>N</m:mi></m:mrow></m:mstyle></m:msub><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{S rSub { size 8{N} } 2} {}</m:annotation></m:semantics></m:math> reaction, no intermediate has been isolated or detected. Furthermore, no rearrangements occur under E2 conditions. This situation is in marked contrast to E1 elimination reactions, where carbocation intermediates are generated and rearrangements are frequently observed.</para>
+          <para id="id10041942">The alkyl halide adopts an anti-periplanar conformation in the transition state, and experimental evidence demonstrates that if the size of the base is increased, then it becomes more difficult for the large base to abstract an internal 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>β</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{β} {}</m:annotation></m:semantics></m:math>-hydrogen atom. In such cases, the base removes a less hindered 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>β</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{β} {}</m:annotation></m:semantics></m:math>-hydrogen, leading to the predominance of the thermodynamically less stable (terminal) alkene in the product mixture. This type of result is often referred to as anti-Zaitsev or Hofmann elimination. Thus, in the reaction of 2-bromo-2,3-dimethylbutane given above, 2,3-dimethyl-1-butene would be the major product (anti-Zaitsev) if the conditions involved use of a bulkier base. The anti-periplanar conformations are illustrated in the Newman projections below: </para>
+          <figure id="id10817633">
+            <media id="idp30048" alt=""><image src="../../media/graphics5-0dc5.png" mime-type="image/png" height="241" width="357"/></media>
+          </figure>
+          <para id="id10642834">Dehydrohalogenation of alkyl halides in the presence of strong base (E2) is often accompanied by the formation of substitution (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>S</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>N</m:mi></m:mrow></m:mstyle></m:msub><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{S rSub { size 8{N} } 2} {}</m:annotation></m:semantics></m:math>) products. The extent of competitive substitution depends on the structure of the alkyl halide. Primary alkyl halides give predominantly substitution products (the corresponding ether), secondary alkyl halides give predominantly elimination products, and tertiary alkyl halides give exclusively elimination products. For example, the reaction of 2-bromopropane with sodium ethoxide proceeds as follows:</para>
+          <para id="id3186367"><media id="idp345360" alt=""><image src="../../media/E2Fig1.jpg" mime-type="image/jpeg" height="250" width="550"/></media>
+          </para>
+          <para id="id10427051">In general, for the reaction of alkyl halides with strong base:</para>
+          <para id="id10934031"><media id="idp10323344" alt=""><image src="../../media/E2Fig2.jpg" mime-type="image/jpeg" height="200" width="400"/></media>
+          </para>
+        </section>
+        <section id="id-522132287876">
+          <title>Physical Properties of Reactants: (Table 1.1)</title>
+          <para id="id10706772">Compound MW Amount mmol bp (°C) D np</para>
+          <para id="id10055308">2-Bromobutane 137.03 100 mL 0.92 91.2 1.26 1.4366</para>
+          <para id="id10639382">Methanol 32.04 3.5 mL 64.9 0.791 1.3288</para>
+          <para id="id10476963">2-Propanol 60.09 3.5 mL 82.4 0.785 1.3776</para>
+          <para id="id10652076">2-Methyl-2-propanol 74.12 3.5mL 82-83 0.786 1.3838</para>
+          <para id="id3354083">(tertbutanol)</para>
+          <para id="id10041210">3- Ethyl-3-pentanol 116.20 3.5 mL 140-142 0.839 1.4266</para>
+          <para id="id10705637">Sodium 22.98 60 mg 2.6 883 0.97</para>
+          <para id="id10051434">Potassium 39.10 60 mg 1.5 760 0.86</para>
+        </section>
+        <section id="id-542151122747">
+          <title>Reagent Combinations: (Table 1.2)</title>
+          <para id="id10607671">Alcohol Solvent Metal Alkoxide Base Produced</para>
+          <para id="id10500982">Methanol Sodium Sodium methoxide</para>
+          <para id="id3056563">2-Propanol Potassium Potassium 2-propoxide</para>
+          <para id="id11208706">2-Methyl-2-propanol Potassium Potassium 2-methyl-1-2- </para>
+          <para id="id10946551">(tertbutanol) propoxide (potassium</para>
+          <para id="id10424747">tert- butoxide)</para>
+          <para id="id10643164">3-Ethyl-3-pentanol Potassium Potassium 3-ethyl-3- </para>
+          <para id="id10051473">pentoxide</para>
+        </section>
+        <section id="id-180527635833">
+          <title>Reagents and Equipment: </title>
+          <para id="id10808189">The combinations of reagents in Table 1.2 may be used to prepare the alkoxide base. Students should compare results to observe a total picture of the effect.</para>
+        </section>
+        <section id="id-193398118416">
+          <title>Reaction Conditions: (Table 1.3)</title>
+          <para id="id10423681">Temperature Conditions Base Temperature (°C)</para>
+          <para id="id10075648"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NaOCH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "NaOCH" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> 100-110</para>
+          <para id="id10054840"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>KOCH</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "KOCH" \(  ital "CH" rSub { size 8{3} }  \)  rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> 130-140</para>
+          <para id="id10608066"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>KOC</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "KOC" \(  ital "CH" rSub { size 8{3} }  \)  rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> 140-150</para>
+          <para id="id10039759"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>KOC</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "KOC" \(  ital "CH" rSub { size 8{2} }  ital "CH" rSub { size 8{3} }  \)  rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> 175-180</para>
+        </section>
+        <section id="id-718434518409">
+          <title>Important Table to Memorize:</title>
+          <figure id="id10076286">
+            <media id="idp5838608" alt=""><image src="../../media/graphics6-9b8a.png" mime-type="image/png" height="487" width="599"/></media>
+          </figure>
+        </section>
+      </section>
+    </section>
+    <section id="id-427276113769">
+      <title>PreLab: The E2 Elimination (Total 10 Points)</title>
+      <para id="id11193469">On my honor, in preparing this report, I know that I am free to use references and consult with others. However, I cannot copy from other students’ work or misrepresent my own data. </para>
+      <para id="id10815783"/>
+      <para id="id10885835"/>
+      <para id="id9886003">…………………………………………………………….. (signature)</para>
+      <para id="id10056577">Print Name: _________________________________________</para>
+      <para id="id10038854">1. Predict the products when the following compounds are treated with sodium hydroxide (base). (3 points)</para>
+      <para id="id10956006"><media id="idp3736000" alt=""><image src="../../media/E2PreLab1a.jpg" mime-type="image/jpeg" height="200" width="450"/></media>
+          </para>
+      <para id="id11196541">2. Which is the more stable structure and why? (2 points)</para>
+      <para id="id11210260"><media id="idp625136" alt=""><image src="../../media/E2PreLab2.jpg" mime-type="image/jpeg" height="200" width="450"/></media>
+          </para>
+      <para id="id10077073">3. Write the major product from the following reactions. (1+ 4= 5 points)</para>
+      <para id="id10065314"><media id="idm3020416" alt=""><image src="../../media/E2PreLab3a.jpg" mime-type="image/jpeg" height="200" width="450"/></media>
+          </para>
+      <para id="id10953381">(b) 
+       <media id="idm9774928" alt=""><image src="../../media/E2PreLab3b.jpg" mime-type="image/jpeg" height="200" width="450"/></media>
+          </para>
+      <para id="id10810123">Write the mechanism for this reaction. (Hint: carbocationic rearrangement takes place)</para>
+      <section id="id-868657187741">
+        <title>Grading</title>
+        <list list-type="bulleted" id="id6364112">
+          <item>Completion of Pre Lab Questions.</item>
+          <item>Write-up in your Lab Notebook.</item>
+          <item>Completion of Report Questions.</item>
+          <item>TA Points.</item>
+        </list>
+      </section>
+      <section id="id-403973401604">
+        <title>Materials Required</title>
+        <table id="id10819703" summary="">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry>Equipment</entry>
+                <entry>Chemicals</entry>
+              </row>
+              <row>
+                <entry>Water bath with a beaker</entry>
+                <entry>Anhydrous alcohol (Ethanol)</entry>
+              </row>
+              <row>
+                <entry>Reflux condenser</entry>
+                <entry>Sodium metal</entry>
+              </row>
+              <row>
+                <entry>5 mL conical vial</entry>
+                <entry>Needle</entry>
+              </row>
+              <row>
+                <entry>Stirring vane</entry>
+                <entry>2-bromobutane</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id10883546">Safety</para>
+        <para id="id10476429">Wear gloves all the time, especially when you use the metals. Keep safety glasses on all the time. </para>
+      </section>
+      <section id="id-236088771201">
+        <title>Experimental Procedure </title>
+        <para id="id8621310">Preparation of the Alkoxide Base: Add to a 5.0 mL conical vial containing a magnetic spin vane 3-3.5 mL of the anhydrous alcohol (see Table 4.2). Add a 60-mg piece of potassium (or sodium) metal (or ~2 pellets) and immediately attach the vial to a reflux condenser closed by a lid. Place a needle above the reflux condenser to remove extra pressure generated during reflux. Place the whole arrangement in a water bath and, heat the mixture gently (~50 °C) with stirring. (DO NOT HEAT THE CLOSED SYSTEM) When all the metal has reacted, remove the assembly from the water bath and cool to near room temperature (remove the needle).</para>
+        <para id="id10499569"><media id="idp720736" alt=""><image src="../../media/E2Pic1.jpg" mime-type="image/jpeg" height="300" width="450"/></media>
+          </para>
+        <para id="id10485327">Remove the lid from the condenser and use a calibrated Pasteur pipette to introduce 100
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>μ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{μ} {}</m:annotation></m:semantics></m:math>L of 2-bromobutane down through the condenser into the vial. Place the assembly in the preheated water bath (see Table 1.3). Attach the gas delivery tube to the top of the condenser so that the open end of the tube is beneath the water level of the reservoir. If the connection to the top of the condenser is not made with an O-ring cap seal connection, lightly grease the ground-glass joint to insure a gas-tight seal. After about 10-15 minutes, air bubbles emerge. Place the water-filled gas collection tube over the open end of the gas delivery tube.</para>
+        <para id="id10811723">Isolation of Product: Collect about 6-7 mL of gas in the collection reservoir and then use a hypodermic syringe to withdraw a 0.7 to 0.8 mL sample through the rubber septum for GC analysis. </para>
+        <para id="id10425679">NOTE. Remove the gas delivery tube from the collecting reservoir and then from the water before discontinuing the heat on the reaction vial. This order of events prevents water from being drawn back into the reaction flask. </para>
+        <para id="id10694142">Purification and Characterization: The collected gas is analyzed by gas chromatography without further purification.</para>
+        <para id="id10808760"><media id="idp5117008" alt=""><image src="../../media/E2Pic2.jpg" mime-type="image/jpeg" height="300" width="600"/></media>
+          </para>
+        <para id="id10817619"><media id="idp3735776" alt=""><image src="../../media/E2Pic3.jpg" mime-type="image/jpeg" height="200" width="450"/></media>
+          </para>
+        <para id="id10424027">CAUTION</para>
+        <para id="id10480072">Handle sodium and potassium with care. These metals react vigorously with moisture and are kept under paraffin oil or xylene. Remove a small piece of metal from the oil using a pair of forceps or tongs-never use your fingers! Dry the metal quickly by pressing it with filter paper (to soak up the oil), and immediately add it to the alcohol in the reaction vial. Any residual pieces of sodium/potassium should be stored in a bottle marked “sodium/potassium residues." Never throw small pieces of these metals in the sink or in water. </para>
+        <section id="id-977573367585">
+          <title>Waste Disposal</title>
+          <para id="id10425189">There will be a large beaker of isopropanol for you to dispense your unused metal. To destroy the metal, add small amounts to methanol.</para>
+        </section>
+        <section id="id-959312610629">
+          <title>Approximate Lab Time: 2.5-3 hours</title>
+          <para id="id8377292">Report: E2 Elimination (Total 30 Points)</para>
+          <para id="id10644693">On my honor, in preparing this report, I know that I am free to use references and consult with others. However, I cannot copy from other students’ work or misrepresent my own data. </para>
+          <para id="id9049370"/>
+          <para id="id10027526"/>
+          <para id="id10045537">…………………………………………………………….. (signature)</para>
+          <para id="id10672412">Print Name: _________________________________________</para>
+          <para id="id10672417">1. Predict the more stable alkene and supply with reasons for your choice: (6 points)</para>
+          <para id="id10951995">(a) 1-hexene or trans-3-hexene</para>
+          <para id="id10608156">(b) trans-3-hexene or cis-3-hexene</para>
+          <para id="id10500000">(c) 2-methyl-2-hexene or 2,3-dimethyl-2-pentene</para>
+          <para id="id10500528">2. Starting with the appropriate alkyl halide and base-solvent combination, outline a synthesis that would yield each of the following alkenes as the major or only product and include your reasoning: (8 points)</para>
+          <para id="id11237538">(a) 1-Butene</para>
+          <para id="id10700690">(b) 3-Methyl-1-butene</para>
+          <para id="id10649026">(c) 2,3-Dimethyl-1-butene</para>
+          <para id="id10378690">(d) 4-Methylcyclohexene</para>
+          <para id="id9885460">3. When cis-1-bromo-4-tert-butylcyclohexane reacts with sodium ethoxide in ethanol, it reacts rapidly to yield 4-tert-butylcyclohexene. Under similar conditions, trans-1-bromo-4-tert-butylcyclohexane reacts very slowly. Using conformational chair structures, explain the difference in reactivity between these stereo isomers. (4 points)</para>
+          <para id="id10377780">4. Write the major product of the following reactions with proper stereochemistry. </para>
+          <para id="id7785022">(4+ 2+ 2+ 4= 12 points)</para>
+          <para id="id10954457"><media id="idp1710528" alt=""><image src="../../media/E2Report4ad.jpg" mime-type="image/jpeg" height="600" width="600"/></media>
+          </para>
+          
+          
+          
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

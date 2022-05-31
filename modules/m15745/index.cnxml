@@ -1,0 +1,242 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Carvone Reduction</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>4c74b853-82c7-495f-869f-c1bfa3a376a7</md:uuid>
+</metadata>
+  <content>
+    <section id="id-876198124851">
+      <title>Reduction of Carvone</title>
+      <section id="id-994968009372">
+        <title>Objective </title>
+        <para id="id47147928">The purpose of this laboratory exercise is to carry out the reduction of (-)-carvone using NaBH4 in methanol as the reducing medium.</para>
+      </section>
+      <section id="id-516961103805">
+        <title>Background Information</title>
+        <para id="id47147947">The reduction of carbonyl compounds is an important synthetic route to alcohols.</para>
+        <para id="id47147953"><figure id="id47147957"><media id="idp1651488" alt=""><image src="../../media/graphics1-3f3a.png" mime-type="image/png" height="92" width="265"/></media></figure>Aldehydes and ketones may be reduced by a variety of reagents to yield their respective alcohol products:</para>
+        <para id="id47110840">Among the most useful reagents for accomplishing these reductions are complex metal hydrides such as lithium aluminum hydride (LiAlH4 or LAH) and sodium borohydride (NaBH4). The hydrogen atoms in these metal hydrides are reactive in carbonyl group reductions. The two metal hydrides are quite different in their reactivities. Lithium aluminum hydride is highly reactive and will reduce groups such as acid chlorides, esters, carboxylic acids, amides, and nitriles, as well as aldehydes and ketones. Lithium aluminum hydride reacts violently with water and other hydroxylic compounds. Reductions carried out with this reagent must be carried out under nonprotic anhydrous conditions.</para>
+        <para id="id47110866">Sodium borohydride is less reactive and hence a more selective reagent than lithium aluminum hydride. It will reduce aldehydes and ketones rapidly to their corresponding alcohols, but will not reduce carboxylic acids and amides, and only slowly reduces esters. Sodium borohydride is a safer reagent that can be used in a wide range of solvents, including water and alcohols. The borohydride reacts slowly with water or other hydroxylic compounds to form hydrogen gas. This reaction is accelerated by an increase in temperature or by a decrease in pH.</para>
+        <figure id="id47110882"><media id="idm9957680" alt=""><image src="../../media/graphics2-77da.png" mime-type="image/png" height="34" width="436"/></media>
+        </figure>
+        <section id="id-297693292079">
+          <title>Mechanism:</title>
+          <para id="id47110913">In alcohol syntheses using sodium borohydride, the probable reaction mechanism involves hydride transfer from the metal hydride to the electropositive carbon of the carbonyl group to yield an alkoxyborohydride (1). The alkoxyborohydride generated is capable of reducing three further equivalents of ketone or aldehyde (2). Hydrolysis of the borate liberates the alcohol (3). </para>
+          
+          <figure id="id47110969"><media id="idm2912656" alt=""><image src="../../media/graphics3-bef3.png" mime-type="image/png" height="150" width="400"/></media>
+          </figure>
+          <para id="id47110993">If an organic chemist was allowed to choose ten aliphatic compounds to be stranded on a desert island with, alcohols would almost certainly be the compounds of choice. Nearly every kind of aliphatic compound can be prepared from an alcohol. In this experiment, you will synthesize carveol by reduction of (-)-carvone using sodium borohydride (NaBH4). The carvone that you isolated last week is not pure enough to use in this experiment, thus you will use commercial (-)-carvone. Treatment of (-)-carvone with sodium borohydride (NaBH4) is expected to yield the following diastereomeric alcohols:</para>
+          <para id="id47111018"><media id="idm10074672" alt=""><image src="../../media/CR5.jpg" mime-type="image/jpeg" height="100" width="400"/></media>
+        
+      In addition to the desired products, other compounds result from a competing reaction in which the double bond of (-)-carvone is reduced. The structures of these compounds are illustrated below.</para>
+          <para id="id47111059"><media id="idp173296" alt=""><image src="../../media/CR6.jpg" mime-type="image/jpeg" height="90" width="436"/></media>
+        
+      </para>
+        </section>
+        <section id="id-131936057474">
+          <title>Comparison of Reactivities of Hydride Reagents:</title>
+          <table id="id47199903" summary="">
+            <tgroup cols="3">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <tbody>
+                <row>
+                  <entry>Metal-Hydride Reagents</entry>
+                  <entry>Formula</entry>
+                  <entry>Selectivity</entry>
+                </row>
+                <row>
+                  <entry>Lithium Aluminum Hydride*Very reactive! Pyrophoric![powerful, unselective]</entry>
+                  <entry>LiAlH4 (LAH)</entry>
+                  <entry>acid → 1° alcoholester → 1° alcoholsamide → aminenitrile → 1º amine</entry>
+                </row>
+                <row>
+                  <entry>Borane-Tetrahydrofuran Complex*Safer and easier to use than LAH![greater selectivity than LAH]</entry>
+                  <entry>BH3·THF</entry>
+                  <entry>acid → 1º alcoholalkene → alcohol(hydroboration/oxidation)</entry>
+                </row>
+                <row>
+                  <entry>Sodium HydridePyrophoric! [hydride basicity, vs. nucleophilicity, predominates]</entry>
+                  <entry>NaH</entry>
+                  <entry>{Deprotonation  to C=O initiates condensation and alkylation reactions}</entry>
+                </row>
+                <row>
+                  <entry>Sodium BorohydrideSafer and easier to use than LAH![can be used in aqueous solutions]</entry>
+                  <entry>NaBH4</entry>
+                  <entry>aldehyde → 1º alcoholketone → 2º alcohol{but doesn’t reduce acids}</entry>
+                </row>
+                <row>
+                  <entry>Sodium Cyanoborohydride*(reagent of choice for reductive aminations)</entry>
+                  <entry>NaBH3CN</entry>
+                  <entry>imine → amine</entry>
+                </row>
+                <row>
+                  <entry>Diisobutylaluminum Hydride*(reagent of choice for this partial reduction)</entry>
+                  <entry>AlH(isoBu)2(DIBAL)</entry>
+                  <entry>ester → aldehyde {stops here; doesn’t reduce further to an alcohol}</entry>
+                </row>
+                <row>
+                  <entry>Lithium Tri-t-butoxyaluminum Hydride*(reagent of choice for this partial reduction)</entry>
+                  <entry>LiAlH(O+)3</entry>
+                  <entry>acid chloride → aldehyde {stops here; doesn’t reduce to alcohol}</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id47100265">*All of these reagents (not just NaBH4) reduce aldehydes to 1º ROH and ketones to 2º ROH. Transformations given here are some of the more common uses for these reagents.</para>
+        </section>
+      </section>
+    </section>
+    <section id="id-722977833363">
+      <title>PreLab: Reduction of Carvone</title>
+      <para id="id47100290">(Total 10 Points)</para>
+      <para id="id47434918">On my honor, in preparing this report, I know that I am free to use references and consult with others. However, I cannot copy from other students’ work or misrepresent my own data. </para>
+      <para id="id47434937"/>
+      <para id="id47434942"/>
+      <para id="id47434949">…………………………………………………………….. (signature)</para>
+      <para id="id47434956">Print Name: _________________________________________</para>
+      <para id="id47434962">1. Which reagent (LiAlH4/NaBH4) would be useful for the following: (4 point)</para>
+      <para id="id47434981">(a) Reduction of a ketone to an alcohol in protic solvent?</para>
+      <para id="id47434986">(b) Reactivity depends on pH?</para>
+      <para id="id47434991">(c) Reduction of an ester group?</para>
+      <para id="id47434995">(d) Reduction of an aldehyde group in the presence of an amide group?</para>
+      <para id="id47435001">2. Write the major product from the following reactions. (6 points)</para>
+      <para id="id47435010"><media id="idp2399552" alt=""><image src="../../media/CR7.jpg" mime-type="image/jpeg" height="120" width="436"/></media>
+   
+
+</para>
+      <para id="element-546"><media id="idm2981536" alt=""><image src="../../media/CR8.jpg" mime-type="image/jpeg" height="120" width="436"/></media>    
+
+</para><para id="id47435037"><media id="idm9201184" alt=""><image src="http://cnx.org/GroupWorkspaces/wg858/m15745/CR8.jpg/view" mime-type="image/jpeg" height="120" width="436"/></media>    
+
+
+
+</para>
+      <para id="id47435064"><media id="idp5168912" alt=""><image src="../../media/CR9.jpg" mime-type="image/jpeg" height="120" width="436"/></media>
+        </para>
+      <section id="id-00411279863527">
+        <title>Grading</title>
+        <list list-type="bulleted" id="id47435098">
+          <item>Isolation and analysis of the reduction product. </item>
+          <item>Analysis by Thin Layer Chromatography (TLC).</item>
+          <item>Write-up in your Lab Notebook. </item>
+          <item>Completion of Pre-Lab and Report Questions.</item>
+          <item>TA Points.</item>
+        </list>
+        <section id="id-719525621106">
+          <title>Materials Required</title>
+          <table id="id47435144" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Equipment</entry>
+                  <entry>Materials</entry>
+                </row>
+                <row>
+                  <entry>5 mL conical vial</entry>
+                  <entry>(-)-Carvone</entry>
+                </row>
+                <row>
+                  <entry>Stirring vane</entry>
+                  <entry>Sodium borohydride solution</entry>
+                </row>
+                <row>
+                  <entry>Pasteur pipette</entry>
+                  <entry>3 M HCl</entry>
+                </row>
+                <row>
+                  <entry>Cotton</entry>
+                  <entry>20% ethyl acetate in hexanes</entry>
+                </row>
+                <row>
+                  <entry>Blue litmus paper</entry>
+                  <entry>Pure carveol</entry>
+                </row>
+                <row>
+                  <entry>TLC plates</entry>
+                  <entry>Carveol diluted 10:1 in CH2Cl2</entry>
+                </row>
+                <row>
+                  <entry>Capillary tubes</entry>
+                  <entry>Na­­2SO4</entry>
+                </row>
+                <row>
+                  <entry/>
+                  <entry>Methylene chloride</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id47105284">Safety </para>
+          <para id="id47105298">Wear gloves all the time, especially when you use sodium borohydride solution. Keep safety glasses on all the time to avoid some unwanted accident. </para>
+        </section>
+        <section id="id-686534622197">
+          <title>Experimental Procedure</title>
+          <para id="id47105313">1) Place 0.5 mL of (-)-carvone in a 5 mL conical vial with a stirring vane.</para>
+          <para id="id47105319">2) Add 1.5 mL of the sodium borohydride solution drop wise. As the sodium borohydride begins to react with the carvone, the yellowish solution will evolve some heat and effervescence (bubbling) may be observed.</para>
+          <para id="id47105338">3) Place the mixture on a stirring plate and let it sit with gentle stirring for 15 minutes.</para>
+          <para id="id47105344">4) At the end of 15 minutes, very carefully add 3M HCl drop wise until the solution is acidic to litmus paper. There will be quite a bit of bubbling.</para>
+          <para id="id47167781">5) Once the reaction has subsided, add 1-2 mL of methylene chloride. Shake the vial gently, and then let it sit for a few minutes until two distinct layers form. Remember that methylene chloride is denser than water. Since the by-products are salts, they will be dissolved in the aqueous layer. (You can add more methylene chloride first, then water if the layers are not separating. Do not increase the total volume too much.)</para>
+          <para id="id47167800">6) Insert a small cotton plug into the tip of a Pasteur pipette. Then carefully add approximately 100 mg of Na2SO4 to the pipette. (If you add more than 100 mg, no harm - weigh it roughly) Use a Pasteur pipette to take up the methylene chloride layer from the 5 mL vial and transfer this liquid into the filter pipette. Hold the pipette over a clean, tared 3 mL conical vial with a boiling chip and let the methylene chloride drip into this vial through the filter pipette.</para>
+          <para id="id47167844">
+            
+            
+            
+          </para>
+          <para id="id47167946">You may need to use a rubber bulb to force the methylene chloride solution through the Na2SO4 plug.</para>
+          <para id="id47167962">7) Use thin layer chromatography (TLC) to determine the purity of your product. Remember that you should see multiple spots resulting from the complex mixture of diastereomers and other products formed. Your teaching assistant will provide a sample of (-)-carveol to spot next to your sample as a control. Stain the resulting TLC plate with p-anisaldehyde. Although these TLC results may not be very clean, you should see three main spots between 0.4 and 0.6 Rf. Each of these spots represents one of the possible products described in the introduction to this lab. Note that the diastereomers produced by the reaction have different Rf values, unlike enantiomers. There will be other spots near the top and bottom of the plate, but the three spots in the center should be larger and darker. (Important Notes: 1. CH2Cl2 is denser than water. 2. MeOH is soluble in water. 3. Sometimes layers do not want to separate, force them as described.)</para>
+          <figure id="id47168017">
+            <media id="idm9665184" alt=""><image src="../../media/graphics8-4f2b.png" mime-type="image/png" height="153" width="81"/></media>
+          </figure>
+          <para id="id47168041">8) Remove the methylene chloride and methanol left in the solution by heating the mixture at 70C until it stops boiling. You may be able to identify carveol in the mixture by smelling it and comparing it to the pure carveol sample that your teaching assistant will provide. Describe the smell (odor) of your product.</para>
+          <para id="id47218689">9) Determine the boiling point of your product. Do you expect a sharp boiling point range?</para>
+          <para id="id47218694">CAUTION</para>
+          <para id="id47218698">1. NaBH4 is very reactive.</para>
+          <para id="id47218714">2. H2 (bubbles) tends to explode. So, do not cap the system.</para>
+        </section>
+        <section id="id-016131458561">
+          <title>Waste Disposal</title>
+          <para id="id47218739">Dispose organic substances in the proper container.</para>
+        </section>
+        <section id="id-148284511177">
+          <title>Approximate Lab Time: 1.75-2.25 hours</title>
+          <para id="id47218752">Report QuestionsReduction of Carvone</para>
+          <para id="id47218809">(Total 30 Points)</para>
+          <para id="id47218813">On my honor, in preparing this report, I know that I am free to use references and consult with others. However, I cannot copy from other students’ work or misrepresent my own data. </para>
+          <para id="id47218833"/>
+          <para id="id47218838"/>
+          <para id="id47218844">…………………………………………………………….. (signature)</para>
+          <para id="id47218852">Print Name: _________________________________________</para>
+          <para id="id47218860">1) What are the two products of the sodium borohydride reduction of 2-tertbutylcyclohexanone? Will one be favored and if so, why? (2+2 = 4 points)</para>
+          <para id="id47218871">2) Explain why the two diastereomers of carveol would have different Rf values. (2 points)</para>
+          <para id="id47218886">3) If instead of HCl, the reaction was quenched with DCl, where would the D be located? Draw the product. (2 points)</para>
+          <para id="id47218897">4) Give the structure of all the products of the following reactions. Indicate proper stereochemistry where appropriate. (18 points)</para>
+          <figure id="id47218910">
+            <media id="idp7823040" alt=""><image src="../../media/graphics9-372a.png" mime-type="image/png" height="118" width="374"/></media>
+          </figure>
+          <figure id="id47218938">
+            <media id="idp4495600" alt=""><image src="../../media/graphics10-d7a8.png" mime-type="image/png" height="89" width="380"/></media>
+          </figure>
+          <figure id="id47218965">
+            <media id="idp5263024" alt=""><image src="../../media/graphics11-b3c2.png" mime-type="image/png" height="97" width="374"/></media>
+          </figure>
+          <figure id="id47106240">
+            <media id="idp1402576" alt=""><image src="../../media/graphics12-9e3d.png" mime-type="image/png" height="100" width="360"/></media>
+          </figure>
+          <figure id="id47106267">
+            <media id="idm1976896" alt=""><image src="../../media/graphics13-5a68.png" mime-type="image/png" height="98" width="360"/></media>
+          </figure>
+          <figure id="id47106294">
+            <media id="idp8768832" alt=""><image src="../../media/graphics14-1e18.png" mime-type="image/png" height="105" width="377"/></media>
+          </figure>
+          <para id="id47106318">5) Explain the stereochemistry of the following product distributions observed. (4 points)</para>
+          <figure id="id47106331">
+            <media id="idp1641904" alt=""><image src="../../media/graphics15-e68e.png" mime-type="image/png" height="154" width="568"/></media>
+          </figure>
+          <para id="id47106356"/>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>
